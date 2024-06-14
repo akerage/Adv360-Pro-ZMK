@@ -1,7 +1,7 @@
 [
 	{
 		"names": [
-			"LEFT_META + LEFT_SHIFT + LEFT_ALT + LEFT_CONTROL"
+			"HYPER"
 		],
 		"description": "LEFT_META + LEFT_SHIFT + LEFT_ALT + LEFT_CONTROL",
 		"clarify": false,
