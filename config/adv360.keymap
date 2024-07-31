@@ -61,8 +61,8 @@
         layer_keypad {
             bindings = <
  &trans            &trans        &trans        &trans        &trans             &trans                  &trans                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &kp LEFT_BRACKET  &kp NUMBER_7        &kp N8  &kp NUMBER_9  &kp RIGHT_BRACKET                   &none                                                       &none  &trans  &trans  &trans  &trans  &trans  &trans
- &trans     &kp SEMICOLON  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6          &kp EQUAL                   &none   &trans     &trans                  &trans  &trans   &none  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &kp LEFT_BRACKET  &kp NUMBER_7        &kp N8  &kp NUMBER_9  &kp RIGHT_BRACKET                  &trans                                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans     &kp SEMICOLON  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6          &kp EQUAL                  &trans   &trans     &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans         &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp BACKSLASH                                      &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
  &trans            &trans        &trans        &trans        &trans                               &kp NUMBER_0  &kp DOT  &kp MINUS                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
